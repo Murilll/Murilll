@@ -218,6 +218,6 @@ g.typingUnderline rect {
 
 <image style="overflow:visible;clip-path:url(#mask);TWFkZUJ5VGFjY2E=;"
 width="4" x="11.5" y="8.5"
-xlink:href="/vue-static/landings/animated-icons-new/icons/color/launch/launch.svg"/>
+xlink:href="<img data-v-8a77baf2="" src="/vue-static/landings/animated-icons-new/icons/color/launch/launch.svg" alt="Launch Animated Icon" class="icon">"/>
 
 </svg>
