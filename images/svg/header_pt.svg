@@ -175,7 +175,7 @@ g.typingUnderline rect {
   </g>  
 
 
-<rect class="headerRect" width="90" height="7.3" rx="1" x="20" y="16.8"/>      # barra onde ta o nome
+<rect class="headerRect" width="90" height="7.3" rx="1" x="40" y="16.8"/>      # barra onde ta o nome
 
 <path id="nameTyping">
   <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="9.4s" begin="0s" fill="freeze"/>
