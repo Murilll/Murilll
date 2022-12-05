@@ -10,7 +10,7 @@
 
 ### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Aprendiz em Desenvolvimento de Sistemas na Bosch, Curitiba\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Aprendiz em Desenvolvimento de Sistemas na Bosch, Curitiba.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela ciência e inovação.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Cursando Engenharia de Software.\
@@ -67,14 +67,14 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 -->
 
 <details>
-  <summary><b>:brain: &nbsp;Outros conhecimentos, sempre aprendendo</b></summary>
+  <summary><b>:brain: &nbsp;Outros conhecimentos, sempre aprendendo.</b></summary>
   <br/>
 
 
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
+  <summary><b>:gear: &nbsp;Estatisticas do GitHub.</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Murilll&hide_border=true&theme=nightowl" />
