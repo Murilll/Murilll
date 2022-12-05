@@ -144,8 +144,8 @@ g.typingUnderline rect {
   </defs> 
 
  
-  <use id="wave3" class="wave" xlink:href="#wave" x="20" y="-2" ></use> 
-  <use id="wave2" class="wave" xlink:href="#wave" x="20" y="0" ></use>
+  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
+  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
  
   <rect fill="#AAA" fill-opacity="50%" x="0" y="1" width="100%" height="0.4" ></rect>
 
@@ -184,7 +184,7 @@ g.typingUnderline rect {
 <text font-family="Courier New" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
-      Murilo Sertorio
+      Murilo Sert
   </textPath>
 </text>
 
