@@ -184,7 +184,7 @@ g.typingUnderline rect {
 <text font-family="Courier New" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
-      BRUNO TACCA
+      Murilo Sertorio
   </textPath>
 </text>
 
@@ -202,7 +202,7 @@ g.typingUnderline rect {
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      Liderança, Arquitetura de Software, Desenvolvimento, Ciência e&amp; Tecnologia.
+      Engenharia de Software.
   </textPath>
 </text>
 
