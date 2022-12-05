@@ -189,7 +189,7 @@ g.typingUnderline rect {
 </text>
 
 <g class="typingUnderline">
-  <rect fill="#FFFFFF" x="10000" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
+  <rect fill="#FFFFFF" x="69" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
       <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
   </rect>
 </g>
@@ -199,7 +199,7 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
+<text x="32" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
       Engenharia de Software.
