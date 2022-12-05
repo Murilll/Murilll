@@ -8,7 +8,7 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;Sobre mim
+### :space_invader: &nbsp;About me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as Apprentice in Systems Development at Bosch, Curitiba\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
@@ -29,7 +29,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Conhecimentos.</b></summary>
+  <summary><b>:computer: &nbsp;Knowledge.</b></summary>
   <br/>
 
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
@@ -67,14 +67,14 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 -->
 
 <details>
-  <summary><b>:brain: &nbsp;Outros conhecimentos, sempre aprendendo</b></summary>
+  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
 
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Murilll&hide_border=true&theme=nightowl" />
