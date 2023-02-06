@@ -8,14 +8,6 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About me
-
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as Apprentice in Systems Development at Bosch, Curitiba.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about troubleshooting and automating daily routines.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Studying Software Engineering.\
-&nbsp;&nbsp;&nbsp;✈️🌎 &nbsp;World, we need to know each other better.
-
 <p align="center">
   <a href="murilosertorio25@gmail.com?subject=Olá%20Murilo%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/murilosertorio/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
