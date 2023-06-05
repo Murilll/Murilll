@@ -44,7 +44,7 @@ rect.headerRect:hover {
 }
 
 .drop {
-  fill: #4447e3;
+  fill: #810CA8;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
   stroke: #4447e3;
